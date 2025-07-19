@@ -160,6 +160,10 @@ transaction: Stores transaction details with tid, bid, name, mobile, email, pinc
 
 review: Stores product reviews with productpid, name, rating, comment.
 
+ER Diagram
+The Entity-Relationship (ER) Diagram visually represents the entities within the system and their relationships, providing a comprehensive overview of the database structure. (Refer to the dbms.pdf file for the visual diagram on Page 7).
+
+
 Usage
 (This section would describe how to use the application once it's installed.)
 
